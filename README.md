@@ -5,4 +5,4 @@
 - ✨ Me encantaria colaborar en algun projecto open source
 - 💕 Papa de dos
 - 🥊 Deseo en algun momento hacer màs deporte, quizas box.. :$
-- ❌ Mis anhelo es algun dia ser empresario, tener calugas y vivir en una isla durante un par de años. 
+- ❌ Mi sueño es algun dia ser empresario, tener calugas y vivir en una isla paradisiaca con muchas mujeres durante un par de años 🤣 
