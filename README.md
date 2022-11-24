@@ -1,6 +1,6 @@
 ### Holi 👋
 
-Mi nombre es Felipe Elgueta y este es mi breve resumen: 
+Mi nombre es Felipe y este es mi breve resumen: 
 
 - 🛠️ Actualmente trabajando en una wallet digital
 - 📙 Interesado en temas como Blockchain, web 3.0,  Defi.. Golang, Solidity, etc entre tantos más 
