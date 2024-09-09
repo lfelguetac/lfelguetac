@@ -3,8 +3,7 @@
 Soy un tipo interesado en...
 - Ingeniería de software
 - Desarrollo BackeEnd, web y movil
-- Arquitectura software
-- Arquitectura Cloud - Aws
+- System Design
+- Arquitectura Cloud
 - Bigdata
-- IA
 - Blockchain
