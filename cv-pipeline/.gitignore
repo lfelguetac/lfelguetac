@@ -1,0 +1,9 @@
+node_modules/
+dist/
+lambda.zip
+*.log
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+.DS_Store
