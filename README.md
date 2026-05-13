@@ -14,8 +14,7 @@
 
 <div align="center">
 
-<a href="mailto:lf.elgueta@gmail.com"><img src="https://img.shields.io/badge/📧_Email-lf.elgueta%40gmail.com-EA4335?style=flat-square&labelColor=1a1a2e" alt="Email"></a>  <a href="https://linkedin.com/in/lfelgueta"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat-square&labelColor=1a1a2e" alt="LinkedIn"></a> <img src="https://img.shields.io/badge/📍_Location-Chile-4285F4?style=flat-square&labelColor=1a1a2e" alt="Location">
-
+<a href="mailto:lf.elgueta@gmail.com"><img src="https://img.shields.io/badge/📧_Email-lf.elgueta%40gmail.com-EA4335?style=flat-square&labelColor=1a1a2e" alt="Email"></a> <img src="https://img.shields.io/badge/📱_Phone-%2B56%209%207144%204426-34A853?style=flat-square&labelColor=1a1a2e" alt="Phone"> <a href="https://linkedin.com/in/lfelgueta"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat-square&labelColor=1a1a2e" alt="LinkedIn"></a> <img src="https://img.shields.io/badge/📍_Location-Chile-4285F4?style=flat-square&labelColor=1a1a2e" alt="Location">
 
 </div>
 
