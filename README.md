@@ -107,7 +107,7 @@ Ingeniero de software con +14 años de experiencia en industrias de alta exigenc
 
 - Colaborar en célula ágil distribuida con miembros de Argentina, Perú y Colombia para implementar nuevas integraciones sobre la wallet Fpay, plataforma con +900.000 usuarios activos que procesó ~US$3.000 millones anuales en transacciones.
 - Diseñar y liderar, desde Arquitectura, proyecto ETL/Streaming en Go para Backoffice, coordinando con usuarios su construcción que logró reducir +50% en costos de consultas online a GCP-BigQuery.
-- Construir pipelines de ingesta de datos (batch y streaming) con Python, Airflow y Cloud Functions, proceso que logra reducir conflictos en Conciliación Bancaria. Senior
+- Construir pipelines de ingesta de datos (batch y streaming) con Python, Airflow y Cloud Functions, proceso que logra reducir conflictos en Conciliación Bancaria.
 ---
 
 #### 🏢 AIMA
