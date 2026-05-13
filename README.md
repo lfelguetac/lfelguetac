@@ -22,7 +22,7 @@
 
 ### 🎯 About Me
 
-Ingeniero de software con +14 años de
+Ingeniero de software con +14 años de experiencia en industrias de alta exigencia, especialmente banca/ fintech y salud. Experimentado en desarrollo de microservicios, integraciones Cloud y pipelines de datos utilizando Node.js, Go, Python, AWS y GCP. He trabajado resolviendo problemas operativos reales: reducción de costos, diseño de flujos y automatización de procesos. Poseo autonomía para llevar iniciativas de principio a fin y alta adaptabilidad tecnológica demostrada en transiciones entre industrias (salud, banca, fintech) y stacks técnicos, y roles, diversos.
 
 ---
 
@@ -54,7 +54,7 @@ Ingeniero de software con +14 años de
 
 **Data**
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&labelColor=1a1a2e" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MongoDB-00ADD8?style=flat-square&labelColor=1a1a2e" alt="MongoDB"> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&labelColor=1a1a2e" alt="Oracle"> <img src="https://img.shields.io/badge/ETL-4285F4?style=flat-square&labelColor=1a1a2e" alt="ETL"> <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat-square&labelColor=1a1a2e" alt="AWS Glue"> <img src="https://img.shields.io/badge/Data%20Pipelines-4285F4?style=flat-square&labelColor=1a1a2e" alt="Data Pipelines"> <img src="https://img.shields.io/badge/Airflow-017DA5?style=flat-square&labelColor=1a1a2e" alt="Airflow">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&labelColor=1a1a2e" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MongoDB-00ADD8?style=flat-square&labelColor=1a1a2e" alt="MongoDB"> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&labelColor=1a1a2e" alt="Oracle"> <img src="https://img.shields.io/badge/ETL-4285F4?style=flat-square&labelColor=1a1a2e" alt="ETL"> <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat-square&labelColor=1a1a2e" alt="AWS Glue"> <img src="https://img.shields.io/badge/Airflow-017DA5?style=flat-square&labelColor=1a1a2e" alt="Airflow">
 
 ---
 
@@ -98,7 +98,7 @@ Ingeniero de software con +14 años de
 - Disponibilizar servicios internos vía API Connect e integrar componentes distribuidos mediante Kafka.
 ---
 
-#### 🏢 Data Engineer  |  FPAY (Falabella)
+#### 🏢 Data Engineer | FPAY (Falabella)
 
 **Software Engineer** | _Agosto 2022 – Julio 2024_
 
@@ -107,7 +107,7 @@ Ingeniero de software con +14 años de
 
 - Colaborar en célula ágil distribuida con miembros de Argentina, Perú y Colombia para implementar nuevas integraciones sobre la wallet Fpay, plataforma con +900.000 usuarios activos que procesó ~US$3.000 millones anuales en transacciones.
 - Diseñar y liderar, desde Arquitectura, proyecto ETL/Streaming en Go para Backoffice, coordinando con usuarios su construcción que logró reducir +50% en costos de consultas online a GCP-BigQuery.
-- Construir pipelines de ingesta de datos (batch y streaming) con Python, Airflow y Cloud Functions, proceso que logra reducir conflictos en Conciliación Bancaria.
+- Construir pipelines de ingesta de datos (batch y streaming) con Python, Airflow y Cloud Functions, proceso que logra reducir conflictos en Conciliación Bancaria. Senior
 ---
 
 #### 🏢 AIMA
@@ -168,14 +168,10 @@ Ingeniero de software con +14 años de
 
 ### 📚 Education
 
-- **🎓 Diplomado en Arquitectura y Seguridad Cloud (AWS)** —  _()_
+- **🎓 Diplomado en Arquitectura y Seguridad Cloud (AWS)** — Universidad de Santiago de Chile _(2025)_
 
-<sub>Universidad de Santiago de Chile —</sub>
-- **🎓 2025** —  _()_
-
-<sub>Módulos: Arquitectura Cloud, Arquitectura Avanzada, Seguridad en Nube, Networking. Ingeniero en Informática (Titulado) Universidad Santo Tomás —</sub>
-- **🎓 2006-** —  _()_
-- **🎓 2011** —  _()_
+<sub>Módulos: Arquitectura Cloud, Arquitectura Avanzada, Seguridad en Nube, Networking.</sub>
+- **🎓 Ingeniero en Informática (Titulado)** — Universidad Santo Tomás _(2006-2011)_
 
 ---
 
