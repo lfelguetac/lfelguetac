@@ -20,10 +20,10 @@ Con +14 años de experiencia en industrias de alta exigencia, especialmente banc
 
 | 🏆 | Logro |
 |---|-------|
-| 💰 | **~20% reducción de costos al migrar infraestructura Kubernetes on-premise por otro 100% Cloud y optimizar dichos recursos en AIMA.** reducción de costos al migrar infraestructura Kubernetes on-premise por otro 100% Cloud y optimizar dichos recursos en AIMA. |
-| 💰 | **Reducción de costos > al área Back-Office por sistema que reemplazó consultas online a BigQuery por otro con ETL/Streams para Fpay.**  |
-| 🌎 | **Expansión a Perú liderando App móvil multiplataforma con delivery en App Store, Android y Huawei en AIMA.**  |
-| ⚡ | **Automatización proceso curse de créditos que permite la evaluación, autorización y liberación de recursos de días a minutos en Itaú.**  |
+| 💰 | ~20% reducción de costos al migrar infraestructura Kubernetes on-premise por otro 100% Cloud y optimizar dichos recursos en AIMA. |
+| 💰 | Reducción de costos >50% al área Back-Office por sistema que reemplazó consultas online a BigQuery por otro con ETL/Streams para Fpay. |
+| 🌎 | Expansión a Perú liderando App móvil multiplataforma con delivery en App Store, Android y Huawei en AIMA. |
+| ⚡ | Automatización proceso curse de créditos que permite la evaluación, autorización y liberación de recursos de días a minutos en Itaú. |
 
 ---
 
