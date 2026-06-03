@@ -12,7 +12,7 @@
 
 ## 👋 About
 
-Con +14 años de experiencia en industrias de alta exigencia, especialmente banca/ fintech y salud. Experimentado en desarrollo de microservicios, integraciones Cloud y pipelines de datos utilizando Node.js, Go, Python, AWS y GCP. He trabajado resolviendo problemas operativos reales: reducción de costos, diseño de flujos y automatización de procesos. Poseo autonomía para llevar iniciativas de principio a fin y alta adaptabilidad tecnológica demostrada en transiciones entre industrias (salud, banca, fintech) y stacks técnicos, y roles, diversos.
+
 
 ---
 
@@ -100,6 +100,6 @@ Toda la arquitectura, código fuente y documentación está en el repositorio:
 
 <div align="center">
 
-📄 *Última actualización: Jun 2, 2026*
+📄 *Última actualización: Jun 3, 2026*
 
 </div>
