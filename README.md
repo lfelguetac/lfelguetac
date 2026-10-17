@@ -100,6 +100,6 @@ Toda la arquitectura, código fuente y documentación está en el repositorio:
 
 <div align="center">
 
-📄 *Última actualización: Jun 13, 2026*
+📄 *Última actualización: Oct 17, 2026*
 
 </div>
